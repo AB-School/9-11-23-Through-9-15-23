@@ -52,3 +52,6 @@ https://replit.com/join/iaemgwptdh-aidenbhakta
 If you don't want to look at it its fine I can sum it up here, 
 it bassically creates an octagon with extended sides, and 
 changes the color on each different side of the octagon.
+
+It also clears the screen and goes to the middle, then just makes a bunch of red lines at random variations and lengths
+the sets the position back to do it again.
