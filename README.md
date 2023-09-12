@@ -1,4 +1,4 @@
-### 9-11-23-Through-9-15-23
+# 9-11-23-Through-9-15-23
 
 The date today is 9/12/23 today my teacher wanted us to either
 create a page on github or google sites, you can obviously
@@ -28,7 +28,7 @@ It also taught some basic commands:
 They also made a small "tortise" robot used for drawing in the real world and not on the computer only.
 
 ---------------------------
-# New Coding, Python with Turtle
+### New Coding, Python with Turtle
 
 In order to import turtle into python do this command line: "from turtle import *" or "import turtle"
 
