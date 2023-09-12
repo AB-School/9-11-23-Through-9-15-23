@@ -28,7 +28,7 @@ It also taught some basic commands:
 They also made a small "tortise" robot used for drawing in the real world and not on the computer only.
 
 ---------------------------
-##New Python
+##New Coding, Python with Turtle
 
 In order to import turtle into python do this command line: "from turtle import *" or "import turtle"
 
