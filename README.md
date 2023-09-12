@@ -32,4 +32,12 @@ In order to import turtle into python do this command line: "from turtle import 
 Creating a turtle is like this:
 [Name of Turtle you want] = turtle.Turtle()
 
+The new commands are this
+[Name of Turtle].forward(Amount)
+[Name of Turtle].left(Amount)
+[Name of Turtle].right(Amount)
+[Name of Turtle].beginfill()
+[Name of Turtle].endfill()
+[Name of Turtle].color("Name of Color")
+
 They taught us some code in Python for Turtle and that was it.
