@@ -43,3 +43,12 @@ The new commands are this:
 [Name of Turtle].beginfill(),
 [Name of Turtle].endfill(),
 [Name of Turtle].color("Name of Color")
+
+--------------------------
+
+I played a bit in python with turtle and made this:
+https://replit.com/join/iaemgwptdh-aidenbhakta
+
+If you don't want to look at it its fine I can sum it up here, 
+it bassically creates an octagon with extended sides, and 
+changes the color on each different side of the octagon.
