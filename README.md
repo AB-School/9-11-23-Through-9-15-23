@@ -29,4 +29,7 @@ They also made a small "tortise" robot used for drawing in the real world and no
 Also another mention:
 In order to import turtle into python do this command line: "from turtle import *" or "import turtle"
 
+Creating a turtle is like this:
+[Name of Turtle you want] = turtle.Turtle()
+
 They taught us some code in Python for Turtle and that was it.
