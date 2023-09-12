@@ -19,10 +19,10 @@ The cursor on the programming language is called turtle.
 The turtle will follow directions typed in the terminal or input section.
 
 It also taught some basic commands:
-?Forward (Amount)
-?Left (Amount)
-?Right (Amount)
-?SetPC (Color Number)
+?Forward (Amount),
+?Left (Amount),
+?Right (Amount),
+?SetPC (Color Number),
 ?SetBG (Color Number)
 
 They also made a small "tortise" robot used for drawing in the real world and not on the computer only.
