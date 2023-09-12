@@ -26,7 +26,10 @@ It also taught some basic commands:
 ?SetBG (Color Number)
 
 They also made a small "tortise" robot used for drawing in the real world and not on the computer only.
-Also another mention:
+
+---------------------------
+Python
+
 In order to import turtle into python do this command line: "from turtle import *" or "import turtle"
 
 Creating a turtle is like this:
@@ -40,5 +43,3 @@ The new commands are this:
 [Name of Turtle].beginfill(),
 [Name of Turtle].endfill(),
 [Name of Turtle].color("Name of Color")
-
-They taught us some code in Python for Turtle and that was it.
