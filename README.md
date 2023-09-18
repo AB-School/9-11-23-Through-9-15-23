@@ -1,4 +1,4 @@
-# 9-11-23-Through-9-15-23
+# 9-11-23-Sub Day
 
 The date today is 9/12/23 today my teacher wanted us to either
 create a page on github or google sites, you can obviously
